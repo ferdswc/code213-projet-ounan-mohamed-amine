@@ -1,0 +1,4 @@
+1. Ne jamais committer de mots de passe, clés API ou tokens.
+2. Vérifier avec git status et git diff ce qui va être committé.
+3. Utiliser un .gitignore pour exclure fichiers sensibles et locaux.
+4. Faire des commits petits et atomiques avec des messages clairs.
