@@ -1,0 +1,5 @@
+Je m'appelle Ounan Mohamed Amine, étudiant débutant en cybersécurité. 
+Pendant le programme Code213, je souhaite maîtriser : 
+(1) les stratégies de branching Git avancées, 
+(2) l'analyse de vulnérabilités binaires bas niveau, 
+(3) les protocoles d'infrastructure réseau sécurisés.
