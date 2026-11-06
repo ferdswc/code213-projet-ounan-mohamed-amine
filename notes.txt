@@ -1,0 +1,6 @@
+1. Git vs GitHub : Git est l'outil local de gestion de versions,
+   GitHub est une plateforme cloud qui héberge les dépôts Git.
+2. Les 4 zones de Git : working directory, staging area (index),
+   local repository, remote repository.
+3. Les gates avant merge : des contrôles automatiques (tests, scans de
+   sécurité, revue de code) qui bloquent le code risqué avant la fusion.
